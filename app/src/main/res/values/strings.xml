@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoClicker</string>
+    <string name="accessibility_desc">ใช้จำลองการแตะหน้าจอเมื่อพบปุ่มที่ตรงกับภาพต้นแบบ</string>
+</resources>
